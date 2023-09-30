@@ -4,17 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalpanigrahi03&label=Profile%20views&color=0e75b6&style=flat" alt="kunalpanigrahi03" /> </p>
 
-- 🔭 I’m currently working on **Quiz App**
+- 🔭 I’m currently working on **Fruit Variety Detection using ResNet**
 
-- 🌱 I’m currently learning **Flutter, React Native**
+- 🌱 I’m currently learning **Deep Learning, Computer Vision**
 
 - 📝 I regularly write articles on [https://medium.com/@2105606](https://medium.com/@2105606)
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **2105606@kiit.ac.in**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **I think I am Introvert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
